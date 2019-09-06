@@ -16,3 +16,7 @@ $ npm start
 
 ```
 
+### 아래의 nodejs , ejs , bootstrap 네비게이션 메뉴 사용 예제 따라하기
+
+
+https://medium.com/@bhanushali.mahesh3/creating-a-simple-website-with-node-js-express-and-ejs-view-engine-856382a4578f
